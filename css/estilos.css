@@ -1,0 +1,79 @@
+body {
+	background-image: url("fondos/fondo6.jpg");
+	background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding: none !important;
+}
+
+
+.header {
+  /*background-color: #282c34;*/
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  background-image: url('./fondos/fondo3.jpg');
+  background-size: cover;
+
+}
+
+
+.divBody{
+  min-height: 100vh;
+  color: white;
+  background: none;
+ 
+}
+.divBody2{
+  min-height: 100vh;
+  color: #cc5424;
+  background: white; 
+}
+
+#divGaleria{
+  background-color: rgba(0, 0, 0, 0.521);
+}
+
+.divTitulo{
+  border: 3px solid white !important;
+  border-radius: 8px;
+}
+
+.titulo{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+.nombre{
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 19pt;
+}
+
+.negrita{
+  font-family: 'Roboto', sans-serif !important; 
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.tTexto{
+  font-size: 20px;
+}
+
+.roboto{
+  font-family: 'Roboto', sans-serif !important; 
+  font-size: 18px;
+}
+
+
+.iconos{
+  font-size:50px !important;
+}
+
+/*font-family: 'Yellowtail', cursive;
+font-family: 'Mr Dafoe', cursive;*/
+
+
